@@ -9,8 +9,7 @@ Existen diferentes tipos según su función:
 - **Audio:** Audio Jack, RCA.  
 - **Red:** Ethernet.  
 
-Ejemplos:
-![Conectores externos](fotoo.png)
+Ejemplos: ![Conectores externos](fotoo.png)
 ### Redes  
 
 | Nombre | Características | Función | 
