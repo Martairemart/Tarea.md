@@ -14,3 +14,4 @@ Los conectores externos (Back Panel o Rear Panel I/O) sirven para conectar los d
 
 
 
+
