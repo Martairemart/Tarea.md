@@ -12,7 +12,7 @@ Existen diferentes tipos según su función:
 Ejemplos: ![Conectores externos](fotoo.png)
   
 
-| ### Nombre | ### Características | ### Función | 
+| **Nombre** | **Características** | **Función** | 
 | ------ | ------ | ------ |
 | Puerto PS/2 ![Puerto PS/2](puerto_ps2.jpg) | Conector redondo, más antiguo, generalmente de color verde o morado | Se usa para conectar teclados y ratones, especialmente en computadoras más antiguas |
 | HPuerto Serie ![HPuerto Serie](puerto_serie.jpg) | Conector antiguo de 9 o 25 pines, transmite datos de manera secuencial | Se utilizaba para conectar módems, impresoras antiguas, scanners y otros dispositivos externos |
