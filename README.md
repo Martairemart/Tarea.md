@@ -7,6 +7,7 @@ Los conectores externos (Back Panel o Rear Panel I/O) sirven para conectar los d
 ### Redes
 
 | Nombre | Características | Función | 
+| ------ | ------ | ------ |
 | Puerto PS/2 | conector redondo de 6 clavijas | sirven para conectar el teclado y el ratón |
-| Header | Title | ---- |
-| Paragraph | Text | --- |
+| Header | Title | hh |
+| Paragraph | Text | jj |
