@@ -1,6 +1,15 @@
 # Tarea 
 ## Conectores externos
-Los conectores externos (Back Panel o Rear Panel I/O) sirven para conectar los dispositivos periféricos al ordenador. Es decir, aquellos que se encuentran fuera del chasis del ordenador y que se conectan sin necesidad de abrir el mismo. A estos conectores se les suelen conocer con el nombre de puerto. Además nombraremos unos botones que suelen incluir algunos tipos de placas bases más avanzadas.
+
+**Conectores externos** son los puertos que permiten a la computadora **comunicarse con otros dispositivos**. Sirven para **transmitir datos, audio, video o energía** a periféricos como teclados, ratones, monitores, impresoras y altavoces.  
+
+Existen diferentes tipos según su función:  
+- **Datos:** USB, Thunderbolt, Serie, Paralelo.  
+- **Video:** VGA, DVI, HDMI, DisplayPort, S-Vídeo, RCA.  
+- **Audio:** Audio Jack, RCA.  
+- **Red:** Ethernet.  
+
+Conocerlos ayuda a **usar correctamente cada dispositivo** y a aprovechar al máximo la computadora.
 
 ![Conectores externos](fotoo.png)
 ### Redes  
