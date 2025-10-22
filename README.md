@@ -13,3 +13,4 @@ Los conectores externos (Back Panel o Rear Panel I/O) sirven para conectar los d
 | Puerto VGA, RCA, S-Vídeo , DVI, HDMI y Display Port ![HPuerto Serie](puerto_dvi.jpg) ![HPuerto Serie](puerto_display.jpg) ![HPuerto Serie](puerto_hdmi.jpg) ![HPuerto Serie](puerto_rca.jpg) ![HPuerto Serie](puerto_svideo.jpg) | están obsoletos y ofrecen menor calidad de imagen | se utilizan para conectar el monitor, pantalla de televisión o proyector a la placa base |
 
 
+
