@@ -19,5 +19,5 @@ Ejemplos: ![Conectores externos](fotoo.png)
 | Puerto Paralelo ![HPuerto Paralelo](puerto_paralelo.jpg)| Conector ancho de 25 pines, transmite varios bits al mismo tiempo | Se utilizaba principalmente para conectar impresoras antiguas y algunos escáneres |
 | RCA  ![HPuerto rca](puerto_rca.jpg) | Conectores de colores (rojo, blanco, amarillo), analógico | Transmitir audio y video en equipos como televisores y consolas |
 | DVI ![HPuerto DVI](puerto_dvi.jpg) | Conector digital o analógico, transmite video de alta calidad | Conectar monitores modernos, transmite solo video |
-<tr style="background-color: #E0FFFF;">
+<tr style="background-color: #E0F7FF;">
 
