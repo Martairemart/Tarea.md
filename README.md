@@ -9,8 +9,7 @@ Existen diferentes tipos según su función:
 - **Audio:** Audio Jack, RCA.  
 - **Red:** Ethernet.  
 
-Conocerlos ayuda a **usar correctamente cada dispositivo** y a aprovechar al máximo la computadora.
-
+Ejemplos:
 ![Conectores externos](fotoo.png)
 ### Redes  
 
