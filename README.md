@@ -11,4 +11,5 @@ Los conectores externos (Back Panel o Rear Panel I/O) sirven para conectar los d
 | Puerto PS/2 | conector redondo de 6 clavijas | sirven para conectar el teclado y el ratón |
 | HPuerto Serie | transmite datos un bit a la vez a través de un solo cable | Conectan diferentes componentes de hardware, facilitando la comunicación  |
 | Puerto Paralelo | La información se envía mediante 8 bits | sirven para conectar dispositivos para la transferencia de datos |
+| Puerto VGA, RCA, S-Vídeo, DVI, HDMI y Display Port | están obsoletos y ofrecen menor calidad de imagen | se utilizan para conectar el monitor, pantalla de televisión o proyector a la placa base |
 
