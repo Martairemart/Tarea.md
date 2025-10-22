@@ -1,2 +1,5 @@
-#Tarea 
-#Conectores externos
+# Tarea 
+# Conectores externos
+
+![Conectores externos](fotoo.png)
+
